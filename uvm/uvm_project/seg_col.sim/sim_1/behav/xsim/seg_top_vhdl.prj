@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../dut/bram.vhd" \
+"../../../../../dut/ip.vhd" \
+"../../../../../dut/ip_v1_0_S00_AXI.vhd" \
+"../../../../../dut/memory_subsystem.vhd" \
+"../../../../../dut/ip_v1_0.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/configuration/configuration_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/agent/seg_agent_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/axi_agent/seg_axi_agent_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/sequence/seg_sequence_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/test_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Asus/Desktop/y23-g05/uvm/verif/seg_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asus/Desktop/y23-g05/uvm/uvm_project/seg_col.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

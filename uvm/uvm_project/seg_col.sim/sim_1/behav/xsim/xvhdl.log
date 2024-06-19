@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/y23-g05/uvm/dut/bram.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bram'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/y23-g05/uvm/dut/ip.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ip'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/y23-g05/uvm/dut/ip_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ip_v1_0_S00_AXI'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/y23-g05/uvm/dut/memory_subsystem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory_subsystem'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Asus/Desktop/y23-g05/uvm/dut/ip_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ip_v1_0'
